@@ -1,0 +1,7 @@
+django
+djangorestframework
+requests
+streamlit
+requests
+plotly
+pandas
